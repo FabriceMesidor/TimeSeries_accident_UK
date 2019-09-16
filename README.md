@@ -16,7 +16,7 @@ What is the relation between the amount of accident on a current day and the day
 Is there any pattern that can help predict (or prevent) the amount of accident in UK on any given day?
 Is the month of the year or day of week related to the number of accident during that month?
 
-Descripotion of the data
+### Description of the data
 
 ![Data Sample](https://github.com/FabriceMesidor/TimeSeries_accident_UK/blob/master/Graphs/sample%20data.png)
 
