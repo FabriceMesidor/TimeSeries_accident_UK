@@ -1,5 +1,5 @@
 # An analysis of daily accidents in UK from 2014 to 2017 using Time Series
-     A simple time series regression to understand the different steps of modelization
+     A simple time series regression to understand the different steps of modeling
 
 ## Introduction
 
