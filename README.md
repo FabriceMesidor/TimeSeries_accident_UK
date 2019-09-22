@@ -1,10 +1,9 @@
 # An analysis of daily accidents in UK from 2014 to 2017 using Time Series
      A simple time series regression to understand the different steps of modeling
-     
-     [Link where I published the analysis!](https://towardsdatascience.com/a-basic-guide-into-time-series-analysis-2ad1979c7438?source=friends_link&sk=ffd8e19d5a1cf1a6bc778f83ca1633f7)
+   [Link to the article where I published this analysis!](https://towardsdatascience.com/a-basic-guide-into-time-series-analysis-2ad1979c7438?source=friends_link&sk=ffd8e19d5a1cf1a6bc778f83ca1633f7)
      
 
-## Introduction
+ ## Introduction
 
 Linear regression is a very common model used by Data Scientist. An outcome or target variable is explained by a set of features. There is a case where the same variable is collected over time and we used a sequence of measurements of that variable made at regular time intervals. Welcome to Time Series. One difference from standard linear regression is that the data are not necessarily independent and not necessarily identically distributed. Working with time series can be frustrating as it implies that you have to find a correlation between the lag or errors of any previous prediction of the value and itself. Also, the ordering matters and changing the order will change the meaning of the data. Due to its complexity, Data Scientist got lost sometimes in the process of times series analysis. In this blog, I am going to share a full time series analysis guided by one of the well known Data Science methods: OSEMIN.
 
