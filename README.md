@@ -1,5 +1,8 @@
 # An analysis of daily accidents in UK from 2014 to 2017 using Time Series
      A simple time series regression to understand the different steps of modeling
+     
+     [Link where I published the analysis!](https://towardsdatascience.com/a-basic-guide-into-time-series-analysis-2ad1979c7438?source=friends_link&sk=ffd8e19d5a1cf1a6bc778f83ca1633f7)
+     
 
 ## Introduction
 
